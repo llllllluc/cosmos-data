@@ -1,0 +1,17 @@
+[{
+  "block_height": "6416023",
+  "chain_id": "",
+  "tx_id": "B63698A296F930EAEE7890A359A2C022A470F7F6A2B2BCB3F6BB3004B95FA537",
+  "event_index": "3",
+  "event_type": "delegate",
+  "attribute_key": "amount",
+  "attribute_value": "1",
+  "attribute_index": "1",
+  "ingestion_timestamp": "2022-08-15T23:16:05.854Z"
+}]
+
+0.000001 ATOM
+1000000
+
+attribute_value for sdk coin is uatom (10^6 uatom = 1 atom)
+

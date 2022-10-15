@@ -1,0 +1,12 @@
+[{
+  "block_height": "6167635",
+  "chain_id": "osmosis-1",
+  "tx_id": "E322247A1A9D086AE162DC363B7644CCD1DDA2DA3F1523300A350D109DCBD471",
+  "message_index": "0",
+  "event_index": "1",
+  "event_type": "redelegate",
+  "attribute_key": "completion_time",
+  "attribute_value": "2022-10-09T04:13:15Z",
+  "attribute_index": "3",
+  "ingestion_timestamp": "2022-09-25T04:13:23.209Z"
+}]
